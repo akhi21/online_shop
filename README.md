@@ -21,6 +21,38 @@ This project is an **Online Shop** built as part of the **Hackathon Phase 1 Subm
 - Configured **Nginx as a reverse proxy** to serve the application.  
 
 ---
+## Task Descriptions & Implementations
+
+### Git & GitHub
+Forked from the Hackathon Github 
+
+Managed the project repository using Git and GitHub.
+
+Used a feature branching strategy (feature/devops-feature).
+
+Ensured clear commit messages following best practices.
+
+Created pull requests for each feature and merged them after review.
+
+Maintained a clean and structured Git history.
+
+### Linux Commands & System Administration
+
+Used Ubuntu EC2 for Deploying docker.
+
+Installed necessary packages 
+
+Error solving
+
+### Docker Integration & Containerization
+
+Dockerized the application using a Dockerfile based on the Nginx image.
+
+Configured Docker Compose to manage the frontend and MySQL database as services.
+
+Created a custom Nginx configuration to properly serve the frontend.
+
+Finally pushed the Docker Image to docker hub .
 
 ## How to Run the Application Locally  
 
