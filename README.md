@@ -55,8 +55,11 @@ docker-compose down
 
 ## 🔥 Key Changes & Enhancements
 ✅ Added Docker support with optimized Dockerfile & Docker Compose setup.
+
 ✅ Configured Nginx for production-ready deployment.
+
 ✅ Enhanced security by properly handling environment variables.
+
 ✅ Deployed to EC2
 
 ## 📢 Final Submission Statement
